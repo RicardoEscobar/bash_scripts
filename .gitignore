@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,video
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,video
+# Created by https://www.toptal.com/developers/gitignore/api/linux,macos,video,windows,text
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,macos,video,windows,text
 
 ### Linux ###
 *~
@@ -49,6 +49,17 @@ Temporary Items
 # iCloud generated files
 *.icloud
 
+### Text ###
+*.doc
+*.docx
+*.log
+*.msg
+*.pages
+*.rtf
+*.txt
+*.wpd
+*.wps
+
 ### Video ###
 *.3g2
 *.3gp
@@ -93,4 +104,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,macos,linux,video
+# End of https://www.toptal.com/developers/gitignore/api/linux,macos,video,windows,text
